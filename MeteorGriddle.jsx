@@ -4,7 +4,6 @@ import { _ } from 'meteor/underscore';
 import Griddle from 'griddle-react';
 
 checkNpmVersions({
-  'griddle-react': '0.5.x',
   'react-addons-pure-render-mixin': '15.x',
 }, 'utilities:meteor-griddle');
 
